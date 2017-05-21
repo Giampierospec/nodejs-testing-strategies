@@ -1,0 +1,22 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "a crowd-sourced subscription",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "2.18.1"
+  },
+  "devDependencies": {
+    "mocha": "3.4.1",
+    "sinon": "2.2.0"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "Giampiero",
+  "license": "MIT"
+}
